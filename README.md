@@ -18,7 +18,7 @@ N/A
 
 ## Usage
 
-Visit the site here [Dan's Work Scheduler](https://part-time-dan.github.io/mod04-Quiz-DanWilson/)
+Visit the site here [Dan's Work Scheduler](https://part-time-dan.github.io/mod05-DayPlanner-DanWilson/)
 
 Timeblock colors should correspond to the time of day according to past, present and future. Timeblocks from previous hours will appear grayed out, the current timeblock (or NOW) shows up red, and all future timeblocks are green. Click into the colored space of the timeblock, type in text, then click the save button to the right of that timeblock. Open the console and look to the Application tab > Local Storage to see the data being stored. Refresh the page to see any saved inputs remain on the page.
 
@@ -30,4 +30,4 @@ N/A
 
 ## Deploy Git Page Screenshot
 
-![Image of deployed day scheduler](./assets/newImage.PNG)
+![Image of deployed day scheduler](./assets/Images/mod05screenshot.PNG)
